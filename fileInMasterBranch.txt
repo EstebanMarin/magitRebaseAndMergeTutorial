@@ -11,3 +11,6 @@ Ridiculus ornare viverra tellus bibendum ullamcorper odio suspendisse mattis gra
 
 [bisect-4]-commit#4
 Luctus mollis porta nulla bibendum mus convallis laoreet hac, suscipit penatibus cursus at ultricies morbi et litora, in integer urna posuere eros fringilla eu. Quam dis nunc congue convallis natoque consequat suscipit habitant, at luctus mollis non sodales magna. Nascetur magnis nisi arcu rhoncus penatibus vestibulum augue ut congue pellentesque nostra lacus, non semper lectus pretium praesent dui vitae donec ac ridiculus magna.
+
+[bisect-5]-commit#5
+Luctus mollis porta nulla bibendum mus convallis laoreet hac, suscipit penatibus cursus at ultricies morbi et litora, in integer urna posuere eros fringilla eu. Quam dis nunc congue convallis natoque consequat suscipit habitant, at luctus mollis non sodales magna. Nascetur magnis nisi arcu rhoncus penatibus vestibulum augue ut congue pellentesque nostra lacus, non semper lectus pretium praesent dui vitae donec ac ridiculus magna.
