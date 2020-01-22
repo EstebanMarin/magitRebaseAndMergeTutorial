@@ -1,0 +1,25 @@
+From cc29774e260cb373a22ab4872c9baf1d8c81da33 Mon Sep 17 00:00:00 2001
+From: Esteban <esteban.marin@getbuilt.com>
+Date: Wed, 22 Jan 2020 16:30:24 -0500
+Subject: [PATCH] fix
+
+---
+ fileInMasterBranch.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/fileInMasterBranch.txt b/fileInMasterBranch.txt
+index e47a8f8..d857106 100644
+--- a/fileInMasterBranch.txt
++++ b/fileInMasterBranch.txt
+@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, integer ad suspendisse h
+ Luctus mollis porta nulla bibendum mus convallis laoreet hac, suscipit penatibus cursus at ultricies morbi et litora, in integer urna posuere eros fringilla eu. Quam dis nunc congue convallis natoque consequat suscipit habitant, at luctus mollis non sodales magna. Nascetur magnis nisi arcu rhoncus penatibus vestibulum augue ut congue pellentesque nostra lacus, non semper lectus pretium praesent dui vitae donec ac ridiculus magna.
+ 
+ 
+-[bisect-1]-commit#3
++[bisect-3]-commit#3
+ Luctus mollis porta nulla bibendum mus convallis laoreet hac, suscipit penatibus cursus at ultricies morbi et litora, in integer urna posuere eros fringilla eu. Quam dis nunc congue convallis natoque consequat suscipit habitant, at luctus mollis non sodales magna. Nascetur magnis nisi arcu rhoncus penatibus vestibulum augue ut congue pellentesque nostra lacus, non semper lectus pretium praesent dui vitae donec ac ridiculus magna.
+ Ridiculus ornare viverra tellus bibendum ullamcorper odio suspendisse mattis gravida, lectus malesuada quisque volutpat auctor inceptos cras non. Montes fames fringilla feugiat vitae habitasse potenti congue quisque felis placerat, auctor penatibus dignissim pretium porttitor ultricies tincidunt hac scelerisque. Dis torquent quis gravida vivamus ad vestibulum penatibus, netus habitasse venenatis natoque nulla maecenas morbi curae, facilisis fringilla tortor consequat cursus magna.
+ 
+-- 
+2.24.0
+
