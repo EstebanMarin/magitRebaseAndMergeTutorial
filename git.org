@@ -1,0 +1,5 @@
+* Bibliography 
+  - [[https://alexwlchan.net/a-plumbers-guide-to-git/1-the-git-object-store/][Git object store]] 
+  - [[https://alexwlchan.net/a-plumbers-guide-to-git/2-blobs-and-trees/][Blobs and trees]]
+  - [[https://alexwlchan.net/a-plumbers-guide-to-git/3-context-from-commits/][Context from commits]]
+  - [[https://alexwlchan.net/a-plumbers-guide-to-git/4-refs-and-branches/][Ref and branches]] 
